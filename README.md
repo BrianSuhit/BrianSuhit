@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Brian Suhit 👋
 
-<!--
-**BrianSuhit/BrianSuhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Futuro AI Engineer | Estudiante de TUDAI 🇦🇷
 
-Here are some ideas to get you started:
+Bienvenido a mi Hub. Mi repositorio se divide en 3 pilares estrategicos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏛️ Mis 3 Pilares de Desarrollo
+
+### 🎓 [TUDAI - Desarrollo de Aplicaciones](LINK_A_REPO_TUDAI)
+Repositorio dedicado solamente a la tecnicatura. 
+
+### 🤖 [AI Engineering](LINK_A_REPO_AI)
+Repositorio dedicado a todos mis proyectos y conocimiento sobre inteligencia artificial- 
+- **Destacado:** Mi [Roadmap Interactivo de IA](https://briansuhit-ai-roadmap.netlify.app/).
+
+### 🌑 [The Secret Pillar / Alignment Research](LINK_A_TU_REPO_SECRETO) -¡PROXIMAMENTE!-
+Repositorio por ahora vacio sobre mi investigacion y practica de alineacion en ia.
+
+---
+
+**Autor:** Brian Suhit
+*Estudiante de Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI).*
+
+---
