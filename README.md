@@ -11,9 +11,9 @@ Bienvenido a mi Hub. Mi repositorio se divide en 3 pilares estrategicos:
 ### 🎓 [TUDAI - Desarrollo de Aplicaciones](LINK_A_REPO_TUDAI)
 Repositorio dedicado solamente a la tecnicatura. 
 
-### 🤖 [AI Engineering](LINK_A_REPO_AI)
+### 🤖 [AI Engineering](https://github.com/BrianSuhit/ai-engineering)
 Repositorio dedicado a todos mis proyectos y conocimiento sobre inteligencia artificial- 
-- **Destacado:** Mi [Roadmap Interactivo de IA](https://briansuhit-ai-roadmap.netlify.app/).
+- **Destacado:** [Roadmap Interactivo de IA](https://briansuhit-ai-roadmap.netlify.app/).
 
 ### 🌑 [The Secret Pillar / Alignment Research](LINK_A_TU_REPO_SECRETO) -¡PROXIMAMENTE!-
 Repositorio por ahora vacio sobre mi investigacion y practica de alineacion en ia.
@@ -21,6 +21,7 @@ Repositorio por ahora vacio sobre mi investigacion y practica de alineacion en i
 ---
 
 **Autor:** Brian Suhit
+
 *Estudiante de Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI).*
 
 ---
