@@ -6,8 +6,6 @@ Bienvenido a mi Hub. Mi repositorio se divide en 3 pilares estrategicos:
 
 ---
 
-## 🏛️ Mis 3 Pilares de Desarrollo
-
 ### 🎓 [1.Repo TUDAI](LINK_A_REPO_TUDAI) -¡PROXIMAMENTE!-
 Repositorio dedicado solamente a la tecnicatura, arranco el 23 de marzo de 2026. 
 
@@ -16,7 +14,6 @@ Repositorio dedicado a todos mis proyectos y conocimiento sobre inteligencia art
 - **Destacado:** [Roadmap Interactivo de IA](https://briansuhit-ai-roadmap.netlify.app/).
 
 ### 🌑 [3. Repo secreto](LINK_A_TU_REPO_SECRETO) -¡PROXIMAMENTE!-
-
 
 ---
 
