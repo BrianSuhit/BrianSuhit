@@ -1,19 +1,17 @@
-# Hola, soy Brian Suhit 👋
+# Hola, soy Brian 👋
 
 ### Futuro AI Engineer | Estudiante de TUDAI 🇦🇷
 
-Bienvenido a mi Hub. Mi repositorio se divide en 3 pilares estrategicos:
+Bienvenido a mi Hub. Mi repositorio se divide en 2 pilares estrategicos:
 
 ---
 
-### 🎓 [1.Repo TUDAI](LINK_A_REPO_TUDAI) -¡PROXIMAMENTE!-
-Repositorio dedicado solamente a la tecnicatura, arranco el 23 de marzo de 2026. 
+### 🎓 [1.TUDAI] -¡PROXIMAMENTE!-
+Dedicado solamente a la tecnicatura, arranco el 23 de marzo de 2026. 
 
-### 🤖 [2.Repo AI Engineering](https://github.com/BrianSuhit/ai-engineering)
-Repositorio dedicado a todos mis proyectos y conocimiento sobre inteligencia artificial- 
-- **Destacado:** [Roadmap Interactivo de IA](https://briansuhit-ai-roadmap.netlify.app/).
-
-### 🌑 [3. Repo secreto](LINK_A_TU_REPO_SECRETO) -¡PROXIMAMENTE!-
+### 🤖 [2.AI Engineering]
+Dedicado a todos mis proyectos y conocimiento sobre inteligencia artificial- 
+- **Proyecto Destacado:** [Roadmap Interactivo de IA](https://briansuhit-ai-roadmap.netlify.app/).
 
 ---
 
