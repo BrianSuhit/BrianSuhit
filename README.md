@@ -1,5 +1,4 @@
-# Hi, I'm Brian Suhit 👋
-### Software Development Student @ TUDAI - UNICEN | Aspiring AI Engineer
+<img src="https://github.com/user-attachments/assets/bc076757-8ea7-4258-8400-de1199497396" alt="Brian Suhit - Software Development Student @ TUDAI - UNICEN. Welcome to my code repository. This space is strictly dedicated to my technical builds and academic progress." width="100%">
 
 Welcome to my code repository. This space is strictly dedicated to my technical builds and academic progress. For professional networking, please visit my [LinkedIn](https://www.linkedin.com/in/briansuhit/).
 
