@@ -8,7 +8,7 @@ Welcome to my code repository. This space is strictly dedicated to my technical 
 
 My workspace is divided into two main branches:
 
-**1. [TUDAI - University Core]**
+**1. [TUDAI - University Core](https://github.com/BrianSuhit/TUDAI)**
 * **Status:** Active (Started March 2026)
 * **Scope:** Computer science fundamentals, programming logic, and university assignments.
 
