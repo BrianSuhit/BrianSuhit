@@ -22,10 +22,8 @@ My workspace is divided into two main branches:
 
 Standalone builds, tools, and legacy repositories that are fully deployed or in maintenance mode:
 
-* 🎯 **[Interactive AI Roadmap](https://github.com/BrianSuhit/ai-engineering-legacy)** | *[Legacy]* A comprehensive, interactive roadmap mapping out AI engineering concepts and learning paths. 
+* 🎯 **[Interactive AI Roadmap](https://github.com/BrianSuhit/ai-engineering-legacy)** | A comprehensive, interactive roadmap mapping out AI engineering concepts and learning paths. 
 
-* 🎨 **[Anthropic VSCode Theme](https://github.com/BrianSuhit/anthropic-inspired-theme)** | *[Tooling]*
-  A custom developer theme for Visual Studio Code, inspired by Anthropic's minimal and sophisticated color palette.
+* 🎨 **[Anthropic VSCode Theme](https://github.com/BrianSuhit/anthropic-inspired-theme)** | A custom developer theme for Visual Studio Code, inspired by Anthropic's minimal and sophisticated color palette.
 
-* 💻 **[Personal Portfolio](https://github.com/BrianSuhit/portfolio)** | *[Web]*
-  My current developer portfolio and digital workspace.
+* 💻 **[Personal Portfolio](https://github.com/BrianSuhit/portfolio)** | My current developer portfolio and digital workspace.
