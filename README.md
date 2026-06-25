@@ -7,12 +7,10 @@
 My workspace is divided into two main branches:
 
 **1. [TUDAI - University Core](https://github.com/BrianSuhit/TUDAI)**
-* **Status:** Active (Started March 2026)
 * **Scope:** Computer science fundamentals, programming logic, and university assignments.
 
-**2. [AI Engineering]**
-* **Status:** Continuous Deployment
-* **Scope:** Implementations, scripts, and personal research in Artificial Intelligence.
+**2. [AI Engineering and others]**
+* **Scope:** Implementations, scripts, and personal projects based in Artificial Intelligence.
 
 ---
 
