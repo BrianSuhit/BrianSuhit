@@ -1,6 +1,4 @@
-<img width="1919" height="469" alt="banner" src="https://github.com/user-attachments/assets/b73ae9ee-1835-40cc-bb29-3f5dbaecd48c" alt="Brian Suhit - Software Development Student @ TUDAI - UNICEN. Welcome to my code repository. This space is strictly dedicated to my technical builds and academic progress." width="100%">
-
-Welcome to my code repository. This space is strictly dedicated to my technical builds and academic progress. For professional networking, please visit my [LinkedIn](https://www.linkedin.com/in/briansuhit/).
+¡Welcome to my code repository!. This space is strictly dedicated to my technical builds and academic progress. For professional networking, please visit my [LinkedIn](https://www.linkedin.com/in/briansuhit/).
 
 ---
 
@@ -19,8 +17,6 @@ My workspace is divided into two main branches:
 ---
 
 ### 📦 Shipped Projects
-
-Standalone builds, tools, and legacy repositories that are fully deployed or in maintenance mode:
 
 * 🎯 **[Interactive AI Roadmap](https://github.com/BrianSuhit/ai-engineering-legacy)** | A comprehensive, interactive roadmap mapping out AI engineering concepts and learning paths. 
 
