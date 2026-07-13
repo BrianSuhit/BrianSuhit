@@ -16,6 +16,8 @@ My workspace is divided into two main branches:
 
 ### 📦 Shipped Projects
 
+* 🚀 **[AI Engineering path](https://github.com/BrianSuhit/ai-engineering-path)** | My interactive study guide, designed to structure my entire learning process for my specialization as an AI engineer.
+
 * 🎯 **[Interactive AI Roadmap](https://github.com/BrianSuhit/ai-engineering-legacy)** | A comprehensive, interactive roadmap mapping out AI engineering concepts and learning paths. 
 
 * 🎨 **[Anthropic VSCode Theme](https://github.com/BrianSuhit/anthropic-inspired-theme)** | A custom developer theme for Visual Studio Code, inspired by Anthropic's minimal and sophisticated color palette.
