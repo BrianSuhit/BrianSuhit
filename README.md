@@ -2,24 +2,10 @@
 
 ---
 
-### 🏗️ Architecture & Focus
-
-My workspace is divided into two main branches:
-
-**1. [TUDAI - University Core](https://github.com/BrianSuhit/TUDAI)**
-* **Scope:** Computer science fundamentals, programming logic, and university assignments.
-
-**2. [AI Engineering and others]**
-* **Scope:** Implementations, scripts, and personal projects based in Artificial Intelligence.
-
----
-
-### 📦 Shipped Projects
+### Projects
 
 * 🚀 **[AI Engineering path](https://github.com/BrianSuhit/ai-engineering-path)** | My interactive study guide, designed to structure my entire learning process for my specialization as an AI engineer.
 
 * 🎯 **[Interactive AI Roadmap](https://github.com/BrianSuhit/ai-engineering-legacy)** | A comprehensive, interactive roadmap mapping out AI engineering concepts and learning paths. 
-
-* 🎨 **[Anthropic VSCode Theme](https://github.com/BrianSuhit/anthropic-inspired-theme)** | A custom developer theme for Visual Studio Code, inspired by Anthropic's minimal and sophisticated color palette.
 
 * 💻 **[Personal Portfolio](https://github.com/BrianSuhit/portfolio)** | My current developer portfolio and digital workspace.
